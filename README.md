@@ -158,11 +158,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📊 Analytics Dashboard
 
-Your site now features:
-- ✅ **Real Google Analytics data** instead of fake counters
+The site features:
+- ✅ **Real Google Analytics data**
 - ✅ **Professional backend API** for data fetching
 - ✅ **Live visitor tracking** that updates with actual traffic
 - ✅ **Secure authentication** using Google Service Accounts
-
-*Visit your site to see real-time visitor statistics powered by Google Analytics!*
 
